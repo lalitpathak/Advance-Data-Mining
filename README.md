@@ -26,4 +26,4 @@ Predictive analytics using data mining
  3. Code7_Exploratory_Analysis.R -- Data exploration. 
  4. Code3_Sentiment_Elite.R -- Openion mining of Elite user.
  5. Code4_Sentiment_nonelite.R - Openion mining o Non-Elite user.
- 6. Code5_lm.R , Code6_adm_yelp.R ---model building, classification and predictive analysis.
+ 6. Code5_lm.R ,Code6_adm_yelp.R ---model building, classification and predictive analysis.
