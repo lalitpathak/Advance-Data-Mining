@@ -1,6 +1,6 @@
 # Advance-Data-Mining
 
-## *PROJECT OBJECTIVE *  
+## *PROJECT OBJECTIVE*  
 
 Predictive analytics using data mining
 
